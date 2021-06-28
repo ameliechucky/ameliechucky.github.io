@@ -1,0 +1,18 @@
+p{
+  color: #8000ff;
+  background: rgb(0, 191, 255);
+}
+body{
+  background: yellow;
+  font-family: 'Source Code Pro', monospace;
+}
+
+.rojo{
+color: red;
+}
+.azul{
+  color: blue;
+}
+.cursiva{
+  font-style: italic; 
+}
