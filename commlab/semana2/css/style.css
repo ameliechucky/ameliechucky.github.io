@@ -1,0 +1,38 @@
+body {
+  font-family: 'Helvetica';
+}
+h3 {
+  background-color: #EEE;
+}
+p {
+  background-color: #EEE;
+}
+
+.display-none{
+  display: none;
+
+}
+
+.visibility{
+ visibility: hidden;
+
+}
+div {
+  width: 300px;
+  height: 250px;
+
+  border-style: dashed;
+  border-width: 1px;
+  border-color: gray;
+
+  padding: 20px;
+
+  margin: 50px 10px;
+  float: left;
+
+}
+
+.float-clear-div{
+
+clear: both
+}
