@@ -1,0 +1,39 @@
+body{
+  font-family: 'Raleway', sans-serif;
+}
+h2, p {
+  margin-block-start: 0.1em;
+  margin-block-end: 0.1em;
+}
+p{
+  font-size: 0.5em;
+}
+h3{
+  color: magenta;
+}
+li{
+  list-style: none;
+}
+ul{
+
+}
+
+.caret {
+  cursor: pointer;
+  user-select: none; /* Prevent text selection */
+  opacity: .3;
+  transform: scale(1);
+  transition: all 0.3s;
+}
+
+.nested {
+  display: none;
+}
+
+/* Show the nested list when the user clicks on the caret/arrow (with JavaScript) */
+.active {
+  display: block;
+  color: blue;
+  opacity: 1;
+  transform: scale(1.5);
+}
