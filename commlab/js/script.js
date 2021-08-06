@@ -143,6 +143,36 @@ var encargo3 = [
   "sin-entrega.html"
 ];
 
+var encargo4 = [
+  "https://karinatnl.github.io/videomedios.github.io/Commlab/Semana4/",
+"sin-entrega.html",
+"https://marcelobecerra99.github.io/commlab/encargo%204/",
+"sin-entrega.html",
+"sin-entrega.html",
+"https://javieraccch.github.io/commlab/semana4/",
+"sin-entrega.html",
+"https://marcelobecerra99.github.io/commlab/encargo%204/",
+"https://gabrielaneiraj.github.io/CommLab/Semana4/",
+"sin-entrega.html",
+"https://mllc99.github.io/commlab/semana4/",
+"https://mllc99.github.io/commlab/semana4/",
+"https://anais759.github.io/commlab/semana4/",
+"https://gabrielaneiraj.github.io/CommLab/Semana4/",
+"https://j4v1n.github.io/commlab/semana%204/",
+"https://gabrielaneiraj.github.io/CommLab/Semana4/",
+"https://j4v1n.github.io/commlab/semana%204/",
+"https://mllc99.github.io/commlab/semana4/",
+"https://anais759.github.io/commlab/semana4/",
+"https://j4v1n.github.io/commlab/semana%204/",
+"https://javieraccch.github.io/commlab/semana4/",
+"https://karinatnl.github.io/videomedios.github.io/Commlab/Semana4/",
+"sin-entrega.html",
+"https://karinatnl.github.io/videomedios.github.io/Commlab/Semana4/",
+"https://anais759.github.io/commlab/semana4/",
+"sin-entrega.html"
+
+];
+
 console.log(document.location.href);
 for (i = 0; i < nombres.length; i++) {
 
@@ -197,13 +227,12 @@ for (i = 0; i < nombres.length; i++) {
   // link 5
   var l5 = document.createElement("LI");
   ul.appendChild(l5);
-  // var e4 = document.createElement("A");
-  // e4.href = encargo4[i];
-  // e4.target = '_blank';
-  // l5.appendChild(e4);
-  var enc4 = document.createTextNode("final");
-  //e4.appendChild(enc4);
-  l5.appendChild(enc4);
+  var e4 = document.createElement("A");
+  e4.href = encargo4[i];
+  e4.target = '_blank';
+  l5.appendChild(e4);
+  var enc4 = document.createTextNode("encargo 4");
+  e4.appendChild(enc4);
 
   var br = document.createElement("BR");
   document.body.appendChild(br);
