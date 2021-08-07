@@ -77,7 +77,7 @@ var encargo1 = [
 "https://carlospinay.github.io/commlab/semana1",
 "https://catalina-reyes.github.io/Commlab/index.html",
 "sin-entrega.html",
-"https://github.com/mromerotrini21",
+"https://mromerotrini21.github.io/commlab/semana1/",
 "https://isisanchez.github.io/commlab/semana1",
 "https://el4i4s.github.io/commlab/SEMANA_01",
 "https://karinatnl.github.io/Commlab/Semana1",
