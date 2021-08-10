@@ -68,7 +68,7 @@ var encargo1 = [
 "https://tamguties.github.io/commlab/semana1",
 "https://pati798.github.io/pati798-github.io/commlab/SEMANA1",
 "https://mllc99.github.io/commlab/semana1",
-"https://github.com/antomoragas",
+"https://antomoragas.github.io/commlab/semana1/",
 "https://diegomoralesgajardo.github.io/commlab/s1",
 "https://laura2384.github.io/commmlab/semana1.1",
 "https://j4v1n.github.io/commlab/semana1",
