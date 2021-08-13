@@ -173,6 +173,36 @@ var encargo4 = [
 
 ];
 
+var final = [
+"https://guineveree.github.io/Guinevereee-github.io/commlab/semana5/",
+"sin-entrega.html",
+"https://marcelobecerra99.github.io/commlab/entrega%20medios/index.html",
+"sin-entrega.html",
+"https://francarr.github.io/francarr-githun.io/commlab/semana%204/",
+"https://javieraccch.github.io/commlab/semana5/",
+"sin-entrega.html",
+"https://jorrrge04.github.io/commlab/encargofinal/",
+"sin-entrega.html",
+"https://pati798.github.io/pati798-github.io/commlab/SEMANA4/",
+"https://mllc99.github.io/commlab/entrega/",
+"https://antomoragas.github.io/commlab/EntregaFinal/",
+"https://diegomoralesgajardo.github.io/commlab/s5/",
+"sin-entrega.html",
+"https://j4v1n.github.io/commlab/semana%205/index.html",
+"sin-entrega.html",
+"https://parawiita.github.io/commlab/S5/index.html",
+"sin-entrega.html",
+"https://catalina-reyes.github.io/commlab/semana4/",
+"https://antorojas98.github.io/commlab/ENTREGA%20FINAL/",
+"https://mromerotrini21.github.io/commlab/entregafinal/",
+"https://isisanchez.github.io/commlab/proyecto%20final/",
+"https://el4i4s.github.io/entrega%20final/",
+"https://karinatnl.github.io/entregafinal.github.io/Semana5/",
+"https://anais759.github.io/commlab/semana5/",
+"https://magdavq.github.io/entregafinal/"
+
+];
+
 console.log(document.location.href);
 for (i = 0; i < nombres.length; i++) {
 
@@ -233,6 +263,15 @@ for (i = 0; i < nombres.length; i++) {
   l5.appendChild(e4);
   var enc4 = document.createTextNode("encargo 4");
   e4.appendChild(enc4);
+  // link 6
+  var l6 = document.createElement("LI");
+  ul.appendChild(l6);
+  var e5 = document.createElement("A");
+  e5.href = final[i];
+  e5.target = '_blank';
+  l6.appendChild(e5);
+  var enc5 = document.createTextNode("encargo final");
+  e5.appendChild(enc5);
 
   var br = document.createElement("BR");
   document.body.appendChild(br);
