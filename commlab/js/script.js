@@ -189,7 +189,7 @@ var final = [
 "https://diegomoralesgajardo.github.io/commlab/s5/",
 "sin-entrega.html",
 "https://j4v1n.github.io/commlab/semana%205/index.html",
-"sin-entrega.html",
+"https://gabrielaneiraj.github.io/CommLab/EntregaFinal/",
 "https://parawiita.github.io/commlab/S5/index.html",
 "sin-entrega.html",
 "https://catalina-reyes.github.io/commlab/semana4/",
